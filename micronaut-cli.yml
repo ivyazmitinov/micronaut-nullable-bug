@@ -1,0 +1,5 @@
+profile: cli
+defaultPackage: nullable.bug
+---
+testFramework: junit
+sourceLanguage: java
