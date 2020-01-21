@@ -2,4 +2,4 @@ micronaut:
   application:
     name: nullable-bug
 
-fields: [heh, tus]
+#fields: [heh, tus]
